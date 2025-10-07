@@ -13,6 +13,8 @@ a Used Library :
 
 EDA method with pandas and numpy 
 
+
+
 Model : Kmeans 
 
 Visualization : Matplotlib 
