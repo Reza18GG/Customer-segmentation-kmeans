@@ -13,7 +13,7 @@ a Used Library :
 
 EDA method with pandas and numpy 
 
-
+Dimension Reduction : PCA
 
 Model : Kmeans 
 
